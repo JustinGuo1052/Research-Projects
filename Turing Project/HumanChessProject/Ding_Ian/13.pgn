@@ -1,0 +1,15 @@
+[Event "FIDE World Championship 2023"]
+[White "Nepomniachtchi,Ian"]
+[Black "Ding,Liren"]
+[Site "Astana"]
+[Round "13.1"]
+[Annotator "TA"]
+[Result "1/2-1/2"]
+[Date "2023.04.27"]
+[WhiteElo "2795"]
+[BlackElo "2788"]
+[PlyCount "78"]
+[TimeControl "60"]
+
+{[%evp 15,78,19,22,17,20,0,0,0,0,0,18,0,0,-7,0,0,0,0,0,0,0,-60,-54,-58,-39,-35,-55,-73,-17,-12,-9,-42,0,0,0,0,13,18,22,21,27,6,45,45,59,58,57,55,47,51,49,16,13,9,9,9,56,0,0,0,0,0,0,0,0]} 1. e4 {[%emt 0:0:3]} e5 {[%emt 0:0:8]} 2. Nf3 {[%emt 0:0:4]} Nc6 {[%emt 0:0:5]} 3. Bb5 {[%emt 0:0:3]} a6 {[%emt 0:0:37]} 4. Ba4 {[%emt 0:0:5]} Nf6 {[%emt 0:0:4]} 5. O-O {[%emt 0:0:7]} Be7 {[%emt 0:0:2]} 6. d3 {[%emt 0:0:13]} b5 {[%emt 0:0:8]} 7. Bb3 {[%emt 0:0:5]} d6 {[%emt 0:0:3]} 8. c3 {[%emt 0:0:6]} (8. a3 O-O 9. Nc3 Na5 10. Ba2 Be6 11. b4 Nc6 12. Bg5 Bxa2 13. Rxa2 Qd7 14. Bxf6 Bxf6 15. Nd5 a5 16. Rb2 axb4 17. axb4 Bd8 18. c4 Nd4 19. Nxd4 exd4 {½-½ Nepomniachtchi,I (2773)-Ding,L (2799) Airthings Masters Prelim rapid 2022 (14)} )O-O {[%emt 0:0:9]} 9. h3 {[%emt 0:0:5] C84: Closed Ruy Lopez: Unusual White 6th moves.} Bb7 {[%emt 0:0:27]} 10. Be3 {[%emt 0:1:34]} Na5 {[%emt 0:2:9]} 11. Bc2 {[%emt 0:0:6]} c5 {[%emt 0:0:5]} 12. Nbd2 {[%emt 0:0:7]} Re8 {[%emt 0:6:39] [#]} 13. a4 $146 {[%emt 0:0:11]} ({Predecessor:} 13. Qe2 Rc8 14. b3 Qc7 15. c4 b4 16. Rfd1 Bf8 17. Nf1 g6 18. Qd2 Bg7 19. Bh6 {0-1 Koay,Y (1154)-Tan,J (1901) Penang op-B 9th 2017 (1)} )h6 {[%emt 0:5:50]} 14. d4 {[%emt 0:13:58]} exd4 {[%emt 0:5:26]} 15. cxd4 {[%emt 0:0:7]} cxd4 {[%emt 0:8:27]} 16. Nxd4 {[%emt 0:3:16]} Nc4 {[%emt 0:0:10]} 17. Nxc4 {[%emt 0:9:3]} bxc4 {[%emt 0:0:18]} 18. f3 {[%emt 0:6:14]} (18. Nf5 $11 )Bf8 $15 {[%emt 0:0:39]} 19. Bf2 $1 {[%emt 0:8:57]} d5 {[%emt 0:1:11]} 20. exd5 {[%emt 0:0:47]} Nxd5 {[%emt 0:0:30] Threatens to win with ...Nf4.} 21. Be4 {[%emt 0:0:41]} Re5 {[%emt 0:25:35]} ({Better is} 21... Rb8 $17 {...Nf4 is the strong threat.} 22. Qd2 Nb4 )22. Rc1 $11 {[%emt 0:2:26]} Rc8 {[%emt 0:2:16]} 23. Ne2 {[%emt 0:4:0]} Qe7 {[%emt 0:4:26]} (23... Qe8 $5 {[%cal Rd5e3]} )24. Qd4 $1 {[%emt 0:5:9][%cal Oe2g3]} f5 {[%emt 0:9:11]} 25. Bg3 $1 {[%emt 0:4:0]} Rxe4 {[%emt 0:0:6]} 26. fxe4 {[%emt 0:0:5]} Qxe4 {[%emt 0:0:2]} 27. Qxe4 {[%emt 0:1:55]} fxe4 {[%emt 0:0:43]} 28. Rfd1 {[%emt 0:7:5]} Nb4 {[%emt 0:4:42]} 29. Rd7 {[%emt 0:1:54]} Bc5+ {[%emt 0:2:27]} 30. Kh2 {[%emt 0:0:59]} Bc6 {[%emt 0:1:41][%csl LRa4,LRd7]} 31. Rc7 {[%emt 0:0:47]} Rxc7 {[%emt 0:1:11]} 32. Bxc7 {[%emt 0:1:0]} Bd5 {[%emt 0:0:21]} 33. Nc3 {[%emt 0:4:34] [#] Strongly threatening Nxd5.} Nd3 {[%emt 0:0:22][%csl LRb2,LRc1]} 34. Rc2 {[%emt 0:1:37]} Bc6 {[%emt 0:0:29]} 35. a5 {[%emt 0:2:14]} Kf7 {[%emt 0:2:35]} (35... g5 $11 {deserves consideration.} )36. Re2 {[%emt 0:8:13]} ({White should try} 36. Ne2 $1 $14 )Nc1 {[%emt 0:1:9] The position is equal.} 37. Re1 {[%emt 0:3:39]} Nd3 {[%emt 0:0:4][%csl LRb2,LRe1]} 38. Re2 {[%emt 0:0:2]} Nc1 {[%emt 0:3:22]} 39. Re1 {[%emt 0:0:13]} Nd3 {[%emt 0:0:4][%csl LRb2,LRe1] Weighted Error Value: White=0.11 (very precise) /Black=0.10 (very precise)} 1/2-1/2
+

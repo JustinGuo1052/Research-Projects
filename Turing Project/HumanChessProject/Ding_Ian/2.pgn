@@ -1,0 +1,15 @@
+[Event "FIDE World Championship 2023"]
+[White "Ding,Liren"]
+[Black "Nepomniachtchi,Ian"]
+[Site "Astana"]
+[Round "2.1"]
+[Annotator "TA"]
+[Result "0-1"]
+[Date "2023.04.10"]
+[WhiteElo "2788"]
+[BlackElo "2795"]
+[PlyCount "58"]
+[TimeControl "60"]
+
+{[%evp 9,58,5,0,0,0,6,20,0,13,0,0,13,3,17,14,0,0,3,10,0,39,0,14,0,0,-61,-53,-103,-101,-142,-115,-148,-164,-155,-150,-158,-154,-271,-273,-270,-265,-353,-378,-678,-681,-667,-666,-700,-688,-839,-813]} 1. d4 {[%emt 0:0:3]} Nf6 {[%emt 0:0:7]} 2. c4 {[%emt 0:0:3]} e6 {[%emt 0:0:11]} 3. Nf3 {[%emt 0:0:4]} d5 {[%emt 0:0:6]} 4. h3 {[%emt 0:0:4]} dxc4 {[%emt 0:8:47] [#]} 5. e3 $146 {[%emt 0:2:10]} ({Predecessor:} 5. Qa4+ Nbd7 6. Qxc4 a6 7. Qc2 b5 8. e4 Bb7 9. e5 Nd5 10. Be2 c5 11. dxc5 Bxc5 {0-1 Gatineau,Y (2423)-Gago Padreny,I (2289) Titled Tuesday intern op 26th May blitz 2020 (7)} )c5 {[%emt 0:2:11]} 6. Bxc4 {[%emt 0:0:33] D30: Queen's Gambit Declined: Systems without Nc3.} a6 {[%emt 0:0:23]} 7. O-O {[%emt 0:0:10]} Nc6 {[%emt 0:11:12]} 8. Nc3 {[%emt 0:3:33] The position is equal.} b5 {[%emt 0:2:10]} 9. Bd3 {[%emt 0:0:37]} Bb7 {[%emt 0:2:4][%cal Rc5d4]} 10. a4 {[%emt 0:0:51]} b4 {[%emt 0:10:2]} 11. Ne4 {[%emt 0:0:34]} Na5 {[%emt 0:3:14]} 12. Nxf6+ {[%emt 0:33:22]} gxf6 {[%emt 0:2:42]} 13. e4 {[%emt 0:3:50]} c4 {[%emt 0:6:26]} 14. Bc2 {[%emt 0:2:4]} Qc7 {[%emt 0:1:6]} 15. Bd2 {[%emt 0:7:11]} Rg8 {[%emt 0:5:47]} 16. Rc1 {[%emt 0:5:12]} O-O-O {[%emt 0:0:56]} 17. Bd3 {[%emt 0:14:49]} Kb8 $15 {[%emt 0:2:15][%cal Of6f5] Black has more active pieces.} 18. Re1 {[%emt 0:0:24] [#]} (18. Kh1 $15 )f5 $1 $17 {[%emt 0:3:25][%mdl 512]} 19. Bc2 {[%emt 0:20:40]} (19. Bb1 Nb3 )Nc6 {[%emt 0:3:22][%cal Ba5c6,Bc6d4,Bd4c2][%mdl 32]} 20. Bg5 {[%emt 0:4:46] [#]} Rxg5 {[%emt 0:6:16][%mdl 576] Deflection} 21. Nxg5 {[%emt 0:0:19]} Nxd4 {[%emt 0:1:29]} 22. Qh5 {[%emt 0:0:59]} f6 {[%emt 0:0:49]} 23. Nf3 {[%emt 0:1:39]} (23. Nxh7 $17 Bc5 24. Nxf6 (24. exf5 $2 {loses.} Nf3+ $19 ))Nxc2 $19 {[%emt 0:0:36]} 24. Rxc2 {[%emt 0:0:5]} Bxe4 {[%emt 0:0:34]} ({And not} 24... fxe4 25. Nd2 $11 )25. Rd2 {[%emt 0:1:38]} Bd6 {[%emt 0:5:40] And now ...Bxf3 would win.} 26. Kh1 $2 {[%emt 0:12:13]} (26. Nd4 c3 27. bxc3 bxc3 28. Rdd1 )c3 {[%emt 0:1:55] Black is clearly winning.} 27. bxc3 {[%emt 0:0:5]} bxc3 {[%emt 0:0:3]} 28. Rd4 {[%emt 0:0:4]} c2 {[%emt 0:1:8]} 29. Qh6 {[%emt 0:1:12]} e5 {[%emt 0:2:14] Weighted Error Value: White=0.53/Black=0.04 (flawless)} 0-1
+

@@ -1,0 +1,15 @@
+[Event "FIDE World Championship 2023"]
+[White "Nepomniachtchi,Ian"]
+[Black "Ding,Liren"]
+[Site "Astana"]
+[Round "11.1"]
+[Annotator "TA"]
+[Result "1/2-1/2"]
+[Date "2023.04.24"]
+[WhiteElo "2795"]
+[BlackElo "2788"]
+[PlyCount "77"]
+[TimeControl "60"]
+
+{[%evp 13,76,12,18,0,10,16,10,0,0,0,0,0,0,0,0,0,0,0,33,32,33,29,37,31,27,11,11,12,14,20,14,13,12,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,8,16,16,16,16,16,0,0,0,16]} 1. e4 {[%emt 0:0:4]} e5 {[%emt 0:0:6]} 2. Nf3 {[%emt 0:0:6]} Nc6 {[%emt 0:0:3]} 3. Bb5 {[%emt 0:0:5][%cal Bf1b5,Bb5a4,Ba4b3,Bb3a2][%mdl 32]} a6 {[%emt 0:0:13]} 4. Ba4 {[%emt 0:0:6]} Nf6 {[%emt 0:0:3]} 5. O-O {[%emt 0:0:8]} Be7 {[%emt 0:0:3]} 6. d3 {[%emt 0:0:26]} b5 {[%emt 0:0:30]} 7. Bb3 {[%emt 0:0:7]} d6 {[%emt 0:0:5]} 8. a3 {[%emt 0:0:8] C84: Closed Ruy Lopez: Unusual White 6th moves.} Na5 {[%emt 0:2:42]} (8... O-O 9. Nc3 Na5 10. Ba2 Be6 11. b4 Nc6 12. Bg5 Bxa2 13. Rxa2 Qd7 14. Bxf6 Bxf6 15. Nd5 a5 16. Rb2 axb4 17. axb4 Bd8 18. c4 Nd4 19. Nxd4 exd4 20. Qc2 c6 {½-½ Nepomniachtchi,I (2773)-Ding,L (2799) Airthings Masters Prelim rapid 2022 (14)} )9. Ba2 {[%emt 0:1:0]} c5 {[%emt 0:0:5]} 10. Nc3 {[%emt 0:0:15][%cal Bb1c3,Bc3d5,Bd5e3][%mdl 32]} Be6 {[%emt 0:0:11]} 11. Bg5 {[%emt 0:0:6]} O-O {[%emt 0:2:23]} 12. Bxf6 {[%emt 0:0:45]} Bxf6 {[%emt 0:0:5]} 13. Nd5 {[%emt 0:0:3]} g6 {[%emt 0:0:35]} 14. Qd2 {[%emt 0:0:55] [#] And now Nxf6+ would win.} Bg7 $146 {[%emt 0:9:57]} ({Predecessor:} 14... Nc6 15. c3 Bg7 16. b4 Ne7 17. Ne3 Qd7 18. Ng5 Bxa2 19. Qxa2 h6 20. Nf3 a5 {0-1 Matrahalmi,T (2278)-Borosova,Z (2284) HUN-chT2 Breyer 1718 2017 (9.2)} )15. Ng5 {[%emt 0:2:7]} c4 {[%emt 0:12:37]} (15... Nc6 $5 )16. Nxe6 {[%emt 0:10:45]} fxe6 {[%emt 0:0:29]} 17. Ne3 {[%emt 0:1:17][%cal Rd3c4]} Bh6 {[%emt 0:1:35]} 18. Rad1 {[%emt 0:0:27]} Rb8 {[%emt 0:11:17]} 19. dxc4 {[%emt 0:10:1]} Nxc4 {[%emt 0:4:51] The position is equal.} 20. Bxc4 {[%emt 0:0:36]} bxc4 {[%emt 0:0:3]} 21. Qxd6 {[%emt 0:0:47]} Qxd6 {[%emt 0:1:7]} 22. Rxd6 {[%emt 0:0:5]} Bxe3 {[%emt 0:0:4]} 23. fxe3 {[%emt 0:0:6]} Rxf1+ {[%emt 0:0:3]} 24. Kxf1 {[%emt 0:0:5]} Rxb2 {[%emt 0:0:2]} 25. Rxe6 {[%emt 0:1:18]} Rxc2 {[%emt 0:0:6]} 26. Rxa6 $11 {[%emt 0:4:19][%mdl 4096] Endgame KR-KR} Ra2 {[%emt 0:0:18]} 27. Rc6 {[%emt 0:0:9]} Rxa3 {[%emt 0:0:5]} 28. Rxc4 {[%emt 0:0:4]} Rxe3 {[%emt 0:2:47]} 29. Kf2 {[%emt 0:0:10]} Ra3 {[%emt 0:0:4]} 30. Rc5 {[%emt 0:0:38]} Ra2+ {[%emt 0:0:3]} 31. Kf3 {[%emt 0:0:4]} Ra3+ {[%emt 0:0:4]} 32. Kg4 {[%emt 0:0:10][%cal Og2g3]} Ra2 {[%emt 0:0:10]} 33. Kh3 {[%emt 0:0:14]} Re2 {[%emt 0:6:28]} 34. Rxe5 {[%emt 0:0:34]} Kf7 {[%emt 0:0:1]} 35. Kg3 {[%emt 0:0:35]} Kf6 {[%emt 0:0:3]} 36. Re8 {[%emt 0:0:6]} Kf7 {[%emt 0:0:2]} 37. Re5 {[%emt 0:0:12]} Kf6 {[%emt 0:0:2]} 38. Re8 {[%emt 0:0:6]} Kf7 {[%emt 0:0:2]} 39. Re5 {[%emt 0:0:6] Weighted Error Value: White=0.02 (flawless) /Black=0.03 (flawless)} 1/2-1/2
+

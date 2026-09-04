@@ -1,0 +1,77 @@
+Game 6.1
+Turn: white, Move: d2d4, Riskyness added to pos: -1.91, Riskyness of pos: 1.00, Eval: 25 --> d4 is calmer √
+Turn: black, Move: g8f6, Riskyness added to pos:  1.18, Riskyness of pos: 2.18, Eval: 28 --> Nf6 is active defense against queen √
+Turn: white, Move: g1f3, Riskyness added to pos: -1.18, Riskyness of pos: 1.00, Eval: 15 --> Nf3 is avoiding Bb4 √
+Turn: black, Move: d7d5, Riskyness added to pos: -0.27, Riskyness of pos: 0.73, Eval: 19 --> d5 is simple √
+Turn: white, Move: c1f4, Riskyness added to pos:  1.09, Riskyness of pos: 1.82, Eval: 10 --> Bf4 controls more squares in opposite √
+Turn: black, Move: c7c5, Riskyness added to pos: -1.00, Riskyness of pos: 0.82, Eval: 11 --> c5 hacks at the center √
+Turn: white, Move: e2e3, Riskyness added to pos:  0.09, Riskyness of pos: 0.91, Eval: 11 --> e3 solidify the center √
+Turn: black, Move: b8c6, Riskyness added to pos: -0.45, Riskyness of pos: 0.45, Eval: 12 --> Nc6 normally develops √
+Turn: white, Move: b1d2, Riskyness added to pos:  1.00, Riskyness of pos: 1.45, Eval: -1 --> Nd2 normally develops √
+Turn: black, Move: c5d4, Riskyness added to pos: -0.09, Riskyness of pos: 1.36, Eval: 10 --> cd simplify pos √
+Turn: white, Move: e3d4, Riskyness added to pos: -0.91, Riskyness of pos: 0.45, Eval: 5  --> ed takes back, simple √
+Turn: black, Move: c8f5, Riskyness added to pos: -0.27, Riskyness of pos: 0.18, Eval: 7  --> Bf5 normally develops √
+Turn: white, Move: c2c3, Riskyness added to pos:  0.64, Riskyness of pos: 0.82, Eval: 6  --> solidify the position √
+Turn: black, Move: e7e6, Riskyness added to pos:  0.45, Riskyness of pos: 1.27, Eval: 4  --> s √
+Turn: white, Move: f1b5, Riskyness added to pos: -0.36, Riskyness of pos: 0.91, Eval: 0  --> s √
+Turn: black, Move: f8d6, Riskyness added to pos: -0.18, Riskyness of pos: 0.73, Eval: 0  
+Turn: white, Move: f4d6, Riskyness added to pos:  0.00, Riskyness of pos: 0.73, Eval: 4
+Turn: black, Move: d8d6, Riskyness added to pos:  0.27, Riskyness of pos: 1.00, Eval: -7
+Turn: white, Move: e1g1, Riskyness added to pos:  1.55, Riskyness of pos: 2.55, Eval: 6 --> 0-0 gives black many different ways of approach
+Turn: black, Move: e8g8, Riskyness added to pos: -1.00, Riskyness of pos: 1.55, Eval: 3 --> 0-0 gives white back to many options
+Turn: white, Move: f1e1, Riskyness added to pos: -0.18, Riskyness of pos: 1.36, Eval: 6 --> 
+Turn: black, Move: h7h6, Riskyness added to pos: -0.73, Riskyness of pos: 0.64, Eval: 5
+Turn: white, Move: f3e5, Riskyness added to pos: -0.27, Riskyness of pos: 0.36, Eval: 5
+Turn: black, Move: c6e7, Riskyness added to pos:  0.91, Riskyness of pos: 1.27, Eval: 14
+Turn: white, Move: a2a4, Riskyness added to pos: -0.55, Riskyness of pos: 0.73, Eval: 14
+Turn: black, Move: a7a6, Riskyness added to pos: -0.18, Riskyness of pos: 0.55, Eval: 12
+Turn: white, Move: b5f1, Riskyness added to pos:  0.00, Riskyness of pos: 0.55, Eval: 14
+Turn: black, Move: f6d7, Riskyness added to pos:  1.45, Riskyness of pos: 2.00, Eval: 40 --> Nd7 
+Turn: white, Move: e5d7, Riskyness added to pos:  0.36, Riskyness of pos: 2.36, Eval: 36
+Turn: black, Move: d6d7, Riskyness added to pos: -1.09, Riskyness of pos: 1.27, Eval: 46
+Turn: white, Move: a4a5, Riskyness added to pos:  0.09, Riskyness of pos: 1.36, Eval: 51
+Turn: black, Move: d7c7, Riskyness added to pos: -0.73, Riskyness of pos: 0.64, Eval: 50
+Turn: white, Move: d1f3, Riskyness added to pos:  0.36, Riskyness of pos: 1.00, Eval: 43
+Turn: black, Move: f8c8, Riskyness added to pos:  0.82, Riskyness of pos: 1.82, Eval: 60
+Turn: white, Move: a1a3, Riskyness added to pos:  1.36, Riskyness of pos: 3.18, Eval: 32
+Turn: black, Move: f5g6, Riskyness added to pos:  1.45, Riskyness of pos: 4.64, Eval: 62
+Turn: white, Move: d2b3, Riskyness added to pos: -0.91, Riskyness of pos: 3.73, Eval: 57
+Turn: black, Move: e7c6, Riskyness added to pos: -1.27, Riskyness of pos: 2.45, Eval: 57
+Turn: white, Move: f3g3, Riskyness added to pos: -0.27, Riskyness of pos: 2.18, Eval: 41
+Turn: black, Move: c7e7, Riskyness added to pos:  0.91, Riskyness of pos: 3.09, Eval: 81
+Turn: white, Move: h2h4, Riskyness added to pos: -2.55, Riskyness of pos: 0.55, Eval: 76
+Turn: black, Move: c8e8, Riskyness added to pos:  1.82, Riskyness of pos: 2.36, Eval: 97
+Turn: white, Move: b3c5, Riskyness added to pos: -1.27, Riskyness of pos: 1.09, Eval: 97
+Turn: black, Move: e6e5, Riskyness added to pos:  5.00, Riskyness of pos: 6.09, Eval: 124
+Turn: white, Move: a3b3, Riskyness added to pos: -0.82, Riskyness of pos: 5.27, Eval: 79
+Turn: black, Move: c6a5, Riskyness added to pos: -3.27, Riskyness of pos: 2.00, Eval: 85
+Turn: white, Move: e1e5, Riskyness added to pos:  0.27, Riskyness of pos: 2.27, Eval: 92
+Turn: black, Move: e7f6, Riskyness added to pos: -0.82, Riskyness of pos: 1.45, Eval: 108
+Turn: white, Move: b3a3, Riskyness added to pos: -1.09, Riskyness of pos: 0.36, Eval: 108
+Turn: black, Move: a5c4, Riskyness added to pos:  0.91, Riskyness of pos: 1.27, Eval: 102
+Turn: white, Move: f1c4, Riskyness added to pos:  1.73, Riskyness of pos: 3.00, Eval: 101
+Turn: black, Move: d5c4, Riskyness added to pos: -2.36, Riskyness of pos: 0.64, Eval: 98
+Turn: white, Move: h4h5, Riskyness added to pos:  4.64, Riskyness of pos: 5.27, Eval: 19
+Turn: black, Move: g6c2, Riskyness added to pos: -1.36, Riskyness of pos: 3.91, Eval: 107
+Turn: white, Move: c5b7, Riskyness added to pos: -2.36, Riskyness of pos: 1.55, Eval: 102
+Turn: black, Move: f6b6, Riskyness added to pos: -0.45, Riskyness of pos: 1.09, Eval: 106
+Turn: white, Move: b7d6, Riskyness added to pos:  0.45, Riskyness of pos: 1.55, Eval: 101
+Turn: black, Move: e8e5, Riskyness added to pos:  0.82, Riskyness of pos: 2.36, Eval: 107
+Turn: white, Move: g3e5, Riskyness added to pos: -0.91, Riskyness of pos: 1.45, Eval: 115
+Turn: black, Move: b6b2, Riskyness added to pos:  2.73, Riskyness of pos: 4.18, Eval: 113
+Turn: white, Move: a3a5, Riskyness added to pos: -1.64, Riskyness of pos: 2.55, Eval: 96
+Turn: black, Move: g8h7, Riskyness added to pos: -0.45, Riskyness of pos: 2.09, Eval: 100
+Turn: white, Move: a5c5, Riskyness added to pos:  1.45, Riskyness of pos: 3.55, Eval: 84
+Turn: black, Move: b2c1, Riskyness added to pos:  9.18, Riskyness of pos: 12.73, Eval: 145
+Turn: white, Move: g1h2, Riskyness added to pos: -9.45, Riskyness of pos: 3.27, Eval: 149
+Turn: black, Move: f7f6, Riskyness added to pos: -0.64, Riskyness of pos: 2.64, Eval: 153
+Turn: white, Move: e5g3, Riskyness added to pos:  1.55, Riskyness of pos: 4.18, Eval: 169
+Turn: black, Move: a6a5, Riskyness added to pos:  2.27, Riskyness of pos: 6.45, Eval: 162
+Turn: white, Move: d6c4, Riskyness added to pos: -2.09, Riskyness of pos: 4.36, Eval: 132
+Turn: black, Move: a5a4, Riskyness added to pos: -0.36, Riskyness of pos: 4.00, Eval: 152
+Turn: white, Move: c4e3, Riskyness added to pos: -3.45, Riskyness of pos: 0.55, Eval: 152
+Turn: black, Move: c2b1, Riskyness added to pos:  15.91, Riskyness of pos: 16.45, Eval: 184
+Turn: white, Move: c5c7, Riskyness added to pos: -12.55, Riskyness of pos: 3.91, Eval: 195
+Turn: black, Move: a8g8, Riskyness added to pos:  2.09, Riskyness of pos: 6.00, Eval: 195
+Turn: white, Move: e3d5, Riskyness added to pos: -0.91, Riskyness of pos: 5.09, Eval: 197
+Turn: black, Move: h7h8, Riskyness added to pos: -1.09, Riskyness of pos: 4.00, Eval: 205

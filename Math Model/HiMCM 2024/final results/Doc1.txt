@@ -1,0 +1,74 @@
+Aquatics                 0.849851
+Athletics                0.863878
+Badminton                0.821821
+Canoeing                 0.802623
+Cycling                  0.876676
+Equestrian               0.739864
+Fencing                  0.840464
+Field hockey             0.777631
+Football                 0.832064
+Golf                     0.748514
+Gymnastics               0.866481
+Handball                 0.823038
+Judo                     0.838810
+Lacrosse                 0.756559
+Modern Pentathlon        0.800782
+Rowing                   0.817986
+Sailing                  0.625455
+Shooting                 0.717368
+Table Tennis             0.826582
+Taekwondo                0.855663
+Tennis                   0.839182
+Triathlon                0.837532
+Volleyball               0.817614
+Wrestling                0.832441
+Rugby                    0.751823
+Sport Climbing           0.771287
+Surfing                  0.793817
+Baseball and Softball    0.740242
+Flag Football            0.646510
+Squash                   0.846953
+Breaking                 0.807763
+Karate                   0.737074
+Chess                    0.165358
+Sports-Car Racing        0.292386
+Motorcycling             0.358138
+E-Sports                 0.189121
+Poker                    0.050782
+Mahjong                  0.007461
+Kendama                  0.008049
+Rubik's Cube             0.177254
+Skydiving                0.378843
+Bungee Jumping           0.074939
+Checkers                 0.182362
+Kendo                    0.214271
+Bridge                   0.056835
+Go                       0.073474
+cheese rolling           0.091583
+Wushu                    0.432736
+Croquet                  0.071433
+Jeu de Paume             0.243363
+Polo                     0.683956
+Rackets                  0.451185
+Tug of War               0.197641
+Water Motorsports        0.094497
+Archery                  0.792439
+Basketball               0.823031
+Weightlifting            0.845631
+Skateboarding            0.766057
+Cricket                  0.768819
+Boxing                   0.757936
+Bowling                  0.228644
+Billiard Sports          0.642635
+Muay Thai                0.764858
+Sumo                     0.331646
+American Football        0.350180
+Darts                    0.289932
+Ballet                   0.246600
+Frisbee                  0.723292
+Dodgeball                0.518257
+Parkour                  0.366352
+Yoyo                     0.010098
+Inline Skating           0.725549
+Cornhole/Beanbag Toss    0.006820
+DanceSport               0.834711

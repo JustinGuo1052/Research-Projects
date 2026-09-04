@@ -1,0 +1,15 @@
+[Event "FIDE World Championship 2023"]
+[White "Nepomniachtchi,Ian"]
+[Black "Ding,Liren"]
+[Site "Astana"]
+[Round "3.1"]
+[Annotator "TA"]
+[Result "1/2-1/2"]
+[Date "2023.04.12"]
+[WhiteElo "2795"]
+[BlackElo "2788"]
+[PlyCount "60"]
+[TimeControl "60"]
+
+{[%evp 20,60,25,20,21,20,24,20,27,19,24,16,20,0,4,0,16,8,11,9,10,7,11,0,0,0,0,-12,-8,-13,-9,-8,-10,-9,-14,-10,0,-6,0,0,0,0,0]} 1. d4 {[%emt 2:0:0]} Nf6 {[%emt 2:0:0]} 2. c4 {[%emt 0:0:0]} e6 {[%emt 0:0:0]} 3. Nc3 {[%emt 0:0:0]} d5 {[%emt 0:0:0]} 4. cxd5 {[%emt 0:0:0]} exd5 {[%emt 0:0:0]} 5. Bg5 {[%emt 0:0:0]} c6 {[%emt 0:0:0]} 6. e3 {[%emt 0:0:0]} h6 {[%emt 0:0:0]} 7. Bh4 {[%emt 0:0:0]} Be7 {[%emt 0:0:0]} 8. Bd3 {[%emt 0:0:0]} O-O {[%emt 0:0:0]} 9. Qc2 {[%emt 0:0:0]} Re8 {[%emt 0:0:0]} 10. Nge2 {[%emt 0:0:0]} Nbd7 {[%emt 0:0:0][%cal Bb8d7,Bd7f8,Bf8e6][%mdl 32]} 11. O-O {[%emt 0:0:0]} a5 {[%emt 0:0:0] D36: Queen's Gambit Declined: Exchange Variation: Main line (5 Bg5 c6 6 Qc2).} 12. a3 {[%emt 0:0:0]} Nh5 {[%emt 0:0:0]} 13. Bxe7 {[%emt 0:0:0]} Qxe7 {[%emt 0:0:0]} 14. Rae1 {[%emt 0:0:0]} Nf8 {[%emt 0:0:0]} 15. Nc1 {[%emt 0:0:0]} Nf6 {[%emt 0:0:0] The position is equal.} 16. f3 {[%emt 0:0:0]} Ne6 {[%emt 0:0:0] [#]} 17. N1e2 $146 {[%emt 0:0:0]} ({Predecessor:} 17. Qf2 c5 18. Bb5 Rd8 19. dxc5 Qxc5 20. Nb3 Qb6 21. Rd1 Bd7 22. Bxd7 Rxd7 23. Nd4 {½-½ Giri,A (2761)-Ding,L (2806) Chessable Masters Prelim rapid 2022 (6)} )c5 {[%emt 0:0:0]} 18. Bb5 {[%emt 0:0:0]} Rd8 {[%emt 0:0:0]} 19. dxc5 {[%emt 0:0:0]} Qxc5 {[%emt 0:0:0]} 20. Qd2 {[%emt 0:0:0]} Bd7 {[%emt 0:0:0]} 21. Bxd7 {[%emt 0:0:0]} Nxd7 {[%emt 0:0:0][%cal Bf6d7,Bd7b6,Bb6c4][%mdl 32]} 22. Nd4 {[%emt 0:0:0]} (22. Nxd5 $2 {loses.} Nb6 $19 )Nb6 {[%emt 0:0:0]} 23. Rd1 {[%emt 0:0:0]} Nc4 {[%emt 0:0:0]} 24. Qf2 {[%emt 0:0:0]} Rac8 {[%emt 0:0:0][%cal Oc4b2] White should prevent ...Nxb2!} 25. Na4 {[%emt 0:0:0]} Qe7 {[%emt 0:0:0]} 26. Rfe1 {[%emt 0:0:0]} Qf6 {[%emt 0:0:0]} 27. Nb5 {[%emt 0:0:0]} Nc7 {[%emt 0:0:0]} 28. Nd4 {[%emt 0:0:0]} Ne6 {[%emt 0:0:0]} 29. Nb5 {[%emt 0:0:0]} Nc7 {[%emt 0:0:0]} 30. Nd4 {[%emt 0:0:0]} Ne6 {[%emt 0:0:0] Not much happened in this game.   Weighted Error Value: White=0.03 (flawless) /Black=0.01 (flawless)} 1/2-1/2
+

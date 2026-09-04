@@ -1,0 +1,10 @@
+4q3/8/4N3/1k6/8/5K2/1B6/8 w - - 0 1
+2kr4/8/p1K1P2q/P7/6b1/4N1p1/6Br/1RR5 w - - 0 1
+3n3k/1b2p2p/6nN/3P4/Q7/6P1/1p4PK/2q5 w - - 0 1
+k7/1p1q1pp1/p2p4/P2P2P1/4R2r/7r/KPP1Q1R1/8 b - - 0 1
+3r2k1/q5p1/p7/Npb3Qp/1P3Pn1/P2r3P/1B4P1/1R1N1R1K b - - 0 1
+8/2qkp3/rpn1N2R/2Pn4/4P3/3KB2B/p4P2/8 w - - 0 1
+r3r3/ppp3kN/2n2bp1/5b2/2B2B2/2N5/PPP2PP1/2K4R b - - 0 1
+3r3k/1p5p/r5q1/n1Qpb3/4p3/1PN5/PBP2PPP/3R1RK1 b - - 0 1
+1q4k1/6b1/8/7P/6QK/5P2/8/8 b - - 0 1
+8/8/PN6/8/3k1n2/2p2K2/1n3P2/8 b - - 0 1
